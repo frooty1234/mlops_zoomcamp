@@ -24,7 +24,7 @@ def ingest_files(**kwargs) -> pd.DataFrame:
 
     return df
 
-@test
+    @test
 def test_output(output, *args) -> None:
     """
     Template code for testing the output of the block.

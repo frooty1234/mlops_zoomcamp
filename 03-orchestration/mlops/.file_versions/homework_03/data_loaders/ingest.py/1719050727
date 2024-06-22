@@ -23,10 +23,3 @@ def ingest_files(**kwargs) -> pd.DataFrame:
            
 
     return df
-
-@test
-def test_output(output, *args) -> None:
-    """
-    Template code for testing the output of the block.
-    """
-    assert output is not None, 'The output is undefined'
