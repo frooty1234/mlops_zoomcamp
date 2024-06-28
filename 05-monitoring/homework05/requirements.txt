@@ -5,8 +5,9 @@ joblib
 pyarrow
 psycopg
 psycopg_binary
-evidently
+evidently 
 pandas
 numpy
 scikit-learn
 jupyter
+matplotlib
